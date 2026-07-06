@@ -1,0 +1,6 @@
+{
+  "name": "Aura Design Studio",
+  "description": "Premium Luxury Interior & Architectural Design Studio in San Francisco, California. Elegant spaces, custom-tailored residential and commercial designs, and interactive visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
